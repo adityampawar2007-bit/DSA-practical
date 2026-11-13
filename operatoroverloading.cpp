@@ -54,7 +54,7 @@ int main(){
 
     return 0;
 }
-/*PS C:\Users\ADMIN\OneDrive\Documents\vikrams DSA codes> cd "c:\Users\ADMIN\OneDrive\Documents\vikrams DSA codes\" ; if ($?) { g++ operatoroverloading.cpp -o operatoroverloading } ; if ($?) { .\operatoroverloading }
+/*PS C:\Users\ADMIN\OneDrive\Documents\Aditya> cd "c:\Users\ADMIN\OneDrive\Documents\Aditya\" ; if ($?) { g++ operatoroverloading.cpp -o operatoroverloading } ; if ($?) { .\operatoroverloading }
 
 First Complex number :8+5i
 Second Complex number :5+3i
@@ -62,4 +62,4 @@ Second Complex number :5+3i
 Sum :13+8i
 Difference :3+2i
 Product: 25+49i
-PS C:\Users\ADMIN\OneDrive\Documents\vikrams DSA codes*/
+PS C:\Users\ADMIN\OneDrive\Documents\Aditya*/
