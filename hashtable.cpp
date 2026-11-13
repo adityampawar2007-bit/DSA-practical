@@ -21,7 +21,7 @@ int main()
     for(int i=0;i<7;i++)
     cout<<i<<" \t"<<a[i]<<endl;
 }
-/*PS C:\Users\ADMIN\OneDrive\Documents\vikrams DSA codes> cd "c:\Users\ADMIN\OneDrive\Documents\vikrams DSA codes\" ; if ($?) { g++ hashtable.cpp -o hashtable } ; if ($?) { .\hashtable }
+/*PS C:\Users\ADMIN\OneDrive\Documents\Aditya> cd "c:\Users\ADMIN\OneDrive\Documents\Aditya\" ; if ($?) { g++ hashtable.cpp -o hashtable } ; if ($?) { .\hashtable }
 
 hash table is 
 0       -1
