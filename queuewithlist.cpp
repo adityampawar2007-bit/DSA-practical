@@ -101,10 +101,10 @@ int main()
 
     return 0;
 }
-/*PS C:\Users\ADMIN\OneDrive\Documents\vikrams DSA codes> cd "c:\Users\ADMIN\OneDrive\Documents\vikrams DSA codes\" ; if ($?) { g++ queuewithlist.cpp -o queuewithlist } ; if ($?) { .\queuewithlist }
+/*PS C:\Users\ADMIN\OneDrive\Documents\Aditya> cd "c:\Users\ADMIN\OneDrive\Documents\Aditya\" ; if ($?) { g++ queuewithlist.cpp -o queuewithlist } ; if ($?) { .\queuewithlist }
 
 Queue elements :        27      34      42      58      65      70
 Removed: 27
 Queue elements :        34      42      58      65      70
 Front element is: 34
-PS C:\Users\ADMIN\OneDrive\Documents\vikrams DSA codes>*/
+PS C:\Users\ADMIN\OneDrive\Documents\Aditya>*/
