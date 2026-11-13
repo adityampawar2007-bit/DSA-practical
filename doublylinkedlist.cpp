@@ -117,9 +117,9 @@ int main() {
     list.displayBackward();  // Output: Backward: 30 <-> 10 <-> NULL
 
     return 0;
-}/*PS C:\Users\ADMIN\OneDrive\Documents\vikrams DSA codes> cd "c:\Users\ADMIN\OneDrive\Documents\vikrams DSA codes\" ; if ($?) { g++ doublylinkedlist.cpp -o doublylinkedlist } ; if ($?) { .\doublylinkedlist }
+}/*PS C:\Users\ADMIN\OneDrive\Documents\Aditya> cd "c:\Users\ADMIN\OneDrive\Documents\Aditya\" ; if ($?) { g++ doublylinkedlist.cpp -o doublylinkedlist } ; if ($?) { .\doublylinkedlist }
 Forward: 10 <-> 20 <-> 30 <-> NULL
 Backward: 30 <-> 20 <-> 10 <-> NULL
 Forward: 10 <-> 30 <-> NULL
 Backward: 30 <-> 10 <-> NULL
-PS C:\Users\ADMIN\OneDrive\Documents\vikrams DSA codes>*/
+PS C:\Users\ADMIN\OneDrive\Documents\Aditya>*/
