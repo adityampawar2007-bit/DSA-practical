@@ -104,7 +104,7 @@ int main() {
     list.display();
 
     return 0;
-}/*PS C:\Users\ADMIN\OneDrive\Documents\vikrams DSA codes> cd "c:\Users\ADMIN\OneDrive\Documents\vikrams DSA codes\" ; if ($?) { g++ linkedlist.cpp -o linkedlist } ; if ($?) { .\linkedlist }
+}/*PS C:\Users\ADMIN\OneDrive\Documents\Aditya> cd "c:\Users\ADMIN\OneDrive\Documents\Aditya\" ; if ($?) { g++ linkedlist.cpp -o linkedlist } ; if ($?) { .\linkedlist }
 
 Linked List: 10 -> 20 -> 30 -> 40 -> NULL
 
@@ -117,4 +117,4 @@ Linked List: 10 -> 20 -> 30 -> 50 -> NULL
 Value 100 not found in the list
 
 Linked List: 10 -> 20 -> 30 -> 50 -> NULL
-PS C:\Users\ADMIN\OneDrive\Documents\vikrams DSA codes> */
+PS C:\Users\ADMIN\OneDrive\Documents\Aditya> */
