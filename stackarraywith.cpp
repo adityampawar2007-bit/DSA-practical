@@ -97,7 +97,7 @@ int main()
     }
 
     return 0;
-}/*PS C:\Users\ADMIN\OneDrive\Documents\vikrams DSA codes> cd "c:\Users\ADMIN\OneDrive\Documents\vikrams DSA codes\" ; if ($?) { g++ stackarraywith.cpp -o stackarraywith } ; if ($?) { .\stackarraywith }
+}/*PS C:\Users\ADMIN\OneDrive\Documents\Aditya> cd "c:\Users\ADMIN\OneDrive\Documents\Aditya\" ; if ($?) { g++ stackarraywith.cpp -o stackarraywith } ; if ($?) { .\stackarraywith }
 Stack elements:
 92
 87
@@ -111,4 +111,4 @@ Stack after pop:
 34
 12
 Top element is: 87
-PS C:\Users\ADMIN\OneDrive\Documents\vikrams DSA codes> */
+PS C:\Users\ADMIN\OneDrive\Documents\Aditya> */
