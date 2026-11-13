@@ -118,9 +118,9 @@ int main()
 
     return 0;
 }
-/*PS C:\Users\ADMIN\OneDrive\Documents\vikrams DSA codes> cd "c:\Users\ADMIN\OneDrive\Documents\vikrams DSA codes\" ; if ($?) { g++ traversal.cpp -o traversal } ; if ($?) { .\traversal }
+/*PS C:\Users\ADMIN\OneDrive\Documents\Aditya> cd "c:\Users\ADMIN\OneDrive\Documents\Aditya\" ; if ($?) { g++ traversal.cpp -o traversal } ; if ($?) { .\traversal }
 
 Inorder Traversal: 34 55 61 77 82 90 130 
 Preorder Traversal: 55 34 77 61 82 90 130 
 Postorder Traversal: 34 61 130 90 82 77 55 
-PS C:\Users\ADMIN\OneDrive\Documents\vikrams DSA codes>*/
+PS C:\Users\ADMIN\OneDrive\Documents\Aditya>*/
