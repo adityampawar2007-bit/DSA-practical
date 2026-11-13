@@ -39,10 +39,10 @@ int main()
       return 0;
     
 }
-/*PS C:\Users\ADMIN\OneDrive\Documents\vikrams DSA codes> cd "c:\Users\ADMIN\OneDrive\Documents\vikrams DSA codes\" ; if ($?) { g++ linearsearch.cpp -o linearsearch } ; if ($?) { .\linearsearch }
+/*PS C:\Users\ADMIN\OneDrive\Documents\Aditya> cd "c:\Users\ADMIN\OneDrive\Documents\Aditya\" ; if ($?) { g++ linearsearch.cpp -o linearsearch } ; if ($?) { .\linearsearch }
 enter the size of the array:5
 enter5sorted integers:
 1 5 7 9 13    
 enter the target element to search for:9
 element9found at index :3
-PS C:\Users\ADMIN\OneDrive\Documents\vikrams DSA codes>*/
+PS C:\Users\ADMIN\OneDrive\Documents\Aditya>*/
