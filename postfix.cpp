@@ -83,9 +83,9 @@ int main(void)
 
     return 0;
 }
-/*PS C:\Users\ADMIN\OneDrive\Documents\vikrams DSA codes> cd "c:\Users\ADMIN\OneDrive\Documents\vikrams DSA codes\" ; if ($?) { g++ postfix.cpp -o postfix } ; if ($?) { .\postfix }
+/*PS C:\Users\ADMIN\OneDrive\Documents\Aditya> cd "c:\Users\ADMIN\OneDrive\Documents\Aditya\" ; if ($?) { g++ postfix.cpp -o postfix } ; if ($?) { .\postfix }
 
 Enter postfix expression: 343+342/+*2$7
 
 Answer = 7
-PS C:\Users\ADMIN\OneDrive\Documents\vikrams DSA codes>*/
+PS C:\Users\ADMIN\OneDrive\Documents\Aditya>*/
