@@ -1,37 +1,69 @@
 #include<iostream>
 using namespace std;
-class Complex
-{
-  private:
-  float real;
-  float imag;
-  public:
-   Complex()
-   {
-    real=0;
-    imag=0;
-   }  
-   Complex(float r,float i)
-   {
-       real=r;
-       imag=i;
-   }
-   void display()
-   {
-         cout<<real<<"+"<<imag<<"i"<<endl;
-   }   
+class Complex{
+    private:
+    float real;
+    float imag;
+    public:
+    Complex(){
+        real=0;
+        imag=0;
+    }
+    Complex(float r,float i)
+    {
+        real=r;
+        imag=i;
+    }
+    ~Complex(){}
+    void display()
+    {
+        cout<<real<<"+"<<imag<<"i"<<endl;
+    }
+    Complex operator+(Complex c)
+    {
+        return Complex(real+c.real,imag+c.imag);
+    }
+    Complex operator-(Complex c)
+    {
+        return Complex(real-c.real,imag-c.imag);
+    }
+    Complex operator*(Complex c)
+    {
+        float r=real*c.real-imag*c.imag;
+        float i=real*c.imag+imag*c.real;
+        return Complex(r,i);
+    }
 };
-int main()
-{
-    Complex c1(2.0,3.0);
-    cout<<"Complex no is :";
+int main(){
+    Complex c1(4,5),c2(2,3);
+    cout<<"\n First Complex Number:";
     c1.display();
-    Complex c2(5.0,7.0);
-    cout<<"Complex no is :";
+    cout<<"Second Complex Number:";
     c2.display();
+    
+    Complex sum=c1+c2;
+    cout<<"\nSum:";
+    sum.display();
+
+    Complex diff=c1-c2;
+    cout<<"\nDifference:";
+    diff.display();
+
+    Complex prod=c1*c2;
+    cout<<"\nProduct:";
+    prod.display();
     return 0;
+
 }
-/*PS C:\Users\ADMIN\OneDrive\Documents\vikrams DSA codes> cd "c:\Users\ADMIN\OneDrive\Documents\vikrams DSA codes\" ; if ($?) { g++ complex.cpp -o complex } ; if ($?) { .\complex }
-Complex no is :2+3i
-Complex no is :5+7i
-PS C:\Users\ADMIN\OneDrive\Documents\vikrams DSA codes> PS*/
+//OUTPUT-
+//PS D:\Aditya> cd "d:\Aditya\" ; if ($?) { g++ operator_overloading.cpp -o operator_overloading } ; if ($?) { .\operator_overloading }
+
+ //First Complex Number:4+5i
+//Second Complex Number:2+3i
+
+//Sum:6+8i
+
+//Difference:2+2i
+
+//Product:-7+22i
+    
