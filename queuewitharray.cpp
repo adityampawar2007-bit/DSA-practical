@@ -138,10 +138,10 @@ int main()
 
     return 0;
 }
-/*PS C:\Users\ADMIN\OneDrive\Documents\vikrams DSA codes> cd "c:\Users\ADMIN\OneDrive\Documents\vikrams DSA codes\" ; if ($?) { g++ queuewitharray.cpp -o queuewitharray } ; if ($?) { .\queuewitharray }
+/*PS C:\Users\ADMIN\OneDrive\Documents\Aditya\> cd "c:\Users\ADMIN\OneDrive\Documents\Aditya\" ; if ($?) { g++ queuewitharray.cpp -o queuewitharray } ; if ($?) { .\queuewitharray }
 
 Queue elements: 25      57      25      82      99
 Removed: 25
 Queue elements: 57      25      82      99
 Front element is: 57
-PS C:\Users\ADMIN\OneDrive\Documents\vikrams DSA codes> */
+PS C:\Users\ADMIN\OneDrive\Documents\Aditya> */
