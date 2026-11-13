@@ -81,7 +81,7 @@ int main() {
 
     return 0;
 }
-/*PS C:\Users\ADMIN\OneDrive\Documents\vikrams DSA codes> cd "c:\Users\ADMIN\OneDrive\Documents\vikrams DSA codes\" ; if ($?) { g++ stacklinkedlist.cpp -o stacklinkedlist } ; if ($?) { .\stacklinkedlist }
+/*PS C:\Users\ADMIN\OneDrive\Documents\Aditya> cd "c:\Users\ADMIN\OneDrive\Documents\Aditya\" ; if ($?) { g++ stacklinkedlist.cpp -o stacklinkedlist } ; if ($?) { .\stacklinkedlist }
 
 220
 100
@@ -96,4 +96,4 @@ Removed220
 810
 990
 Top Element is:100
-PS C:\Users\ADMIN\OneDrive\Documents\vikrams DSA codes>*/
+PS C:\Users\ADMIN\OneDrive\Documents\Aditya>*/
